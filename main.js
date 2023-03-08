@@ -1,8 +1,5 @@
 const getResidentsBtn = document.querySelector("#get-residents")
 
-
-
-
 const buttonClicked = () => console.log("The 'get residents' button has been clicked")
 
 const createNameElement = (residentObj) => {
